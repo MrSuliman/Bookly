@@ -45,7 +45,7 @@ class _DetailViewState extends State<DetailView> {
                 child: Row(
                   children: [
                     Button(
-                      text: 'Downloadddddddddddd',
+                      text: 'Download',
                       txtColor: Colors.orange,
                       background: Colors.white,
                       borderRadius: BorderRadius.only(
