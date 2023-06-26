@@ -40,12 +40,12 @@ class _DetailViewState extends State<DetailView> {
               const AppBarDetail(),
               Info(bookModel: widget.bookModel),
               const SizedBox(height: 18),
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 28),
+              const Padding(
+                padding: EdgeInsets.symmetric(horizontal: 28),
                 child: Row(
-                  children: const [
+                  children: [
                     Button(
-                      text: 'Download',
+                      text: 'Downloadddddddddddd',
                       txtColor: Colors.orange,
                       background: Colors.white,
                       borderRadius: BorderRadius.only(
